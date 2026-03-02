@@ -1,7 +1,15 @@
-# Hapax-Legomenon
-A simple Python tool to count word frequencies in a text file and extract hapax legomena — words that occur exactly once. Works in any plain text file (such as txt, csv, etc)
+# 📚 Hapax Legomena Counter
 
-## Requirements
+A simple Python script that counts word frequencies in a text file and identifies **hapax legomena** — words that appear only once. 🎯
+
+## ✅ Requirements
 
 - Python 3.x
 - No extra libraries needed.
+
+## 🚀 How to use
+
+1. Place your text file (e.g., `mybook.txt`) in the **same folder** as the script `Hapax_Legomenon.py`.
+2. Open a terminal in that folder and run:
+   ```bash
+   python Hapax_Legomenon.py
